@@ -78,9 +78,9 @@ Atuei na construção de interfaces e funcionalidades, buscando proporcionar uma
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonas19-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jonas19-dev&show_icons=true&theme=tokyonight" height="180em"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas19-dev&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas19-dev&layout=compact&theme=tokyonight" height="180em"/>
 
 </div>
 
