@@ -74,24 +74,16 @@ Atuei na construção de interfaces e funcionalidades, buscando proporcionar uma
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=jonas19-dev&show_icons=true&theme=tokyonight" height="180em"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas19-dev&layout=compact&theme=tokyonight" height="180em"/>
-
-</div>
-
----
-
 ### 🌐 Onde me encontrar
 
 <div align="left">
 
 <a href="https://www.linkedin.com/in/jonasalvespontes/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:jonas891289@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
